@@ -1,40 +1,40 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
+      "name": "",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true,
+      "id": 9
     },
     {
-      "id": 2,
-      "name": "Pomegranate",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
-      "id": 3,
-      "name": "Lettuce",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
-      "id": 4,
-      "name": "String Cheese",
+      "name": "Yoghurt",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": false,
+      "id": 10
     },
     {
-      "id": 5,
-      "name": "Swiss Cheese",
+      "name": "Yoghurt",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": false,
+      "id": 11
     },
     {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
+      "name": "Yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "Yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "Yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 14
     }
   ]
 }
